@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.secondH1tag{
+	color:violet;
+}
+.heading01{
+	color:dodgerblue;
+}
+.p1{
+	color:dodgerblue;
+}
+p{
+	color:violet;
+	text-decoration-style:underline;
+}
+.heading03{
+	color:violet;
+}
