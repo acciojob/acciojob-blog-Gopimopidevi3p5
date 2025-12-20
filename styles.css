@@ -4,17 +4,9 @@ h1{
 }
 .secondH1tag{
 	color:violet;
+	text-align:left;
 }
 .heading01{
 	color:dodgerblue;
 }
-.p1{
-	color:dodgerblue;
-}
-p{
-	color:violet;
-	text-decoration-style:underline;
-}
-.heading03{
-	color:violet;
 }
